@@ -1,11 +1,13 @@
-### Hi there 👋, I'm Camilla Winter
+### Olá 👋, eu sou a Camilla Winter
 
-I'm a finance and business specialist and I'm transitioning to data analytics.
+💰 Especialista em Finanças e Gestão Empresarial
 
-💻 Passionate about technology
+📚 Analista de Dados em formação
 
-🧐 Problem solver by nature
+🤓 Trabalho com SQL, Power BI e Excell
 
-💼 15 years of experience in business areas
+💻 Apaixonada por tecnologia
 
-📊 Data driven
+🧐 Solucionadora de problemas nata
+
+📊 Orientada a dados e fatos
