@@ -4,7 +4,7 @@
 
 📚 Analista de Dados em formação
 
-🤓 Trabalho com SQL, Power BI e Excell
+🤓 Trabalho com SQL, Python, Power BI, Google DataStudio e Excell
 
 💻 Apaixonada por tecnologia
 
