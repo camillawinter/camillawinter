@@ -2,9 +2,9 @@
 
 💰 Especialista em Finanças e Gestão Empresarial
 
-📚 Analista de Dados em formação
+📚 Analista de Dados
 
-🤓 Trabalho com SQL, Python, Power BI, Google DataStudio e Excell
+🤓 Trabalho com SQL, Python, Power BI, Google DataStudio e Excel
 
 💻 Apaixonada por tecnologia
 
